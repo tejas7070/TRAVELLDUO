@@ -1,4 +1,4 @@
-# TRAVELLDUO
+# TRAVELDUO
 TravelDuo is a PHP-based web application designed to provide a convenient and efficient bike taxi booking service. Whether you need a quick ride to work, an easy way to navigate through traffic, or a reliable mode of transportation for short distances, TravellDuo offers a seamless experience for booking bike taxis from one point to another.
 
 Key Features*
@@ -38,4 +38,4 @@ Backend: PHP
 Frontend: HTML, CSS, JavaScript
 Database: MySQL
 
-NOTE*: TRAVELLDUO currently requires a localhost to run on web browser which can be provided with the help of XAMPP server.
+NOTE*: TRAVELDUO currently requires a localhost to run on web browser which can be provided with the help of XAMPP server.
